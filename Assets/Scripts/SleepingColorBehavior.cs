@@ -4,7 +4,7 @@ using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody))]
 
-public class PhysicsObjectBehavior : MonoBehaviour
+public class SleepingColorbehavior : MonoBehaviour
 {
     public Material awakeMaterial = null;
     public Material asleepMaterial = null;
